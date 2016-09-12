@@ -12,7 +12,7 @@
 # Reconocimiento Facial - Windows IoT 
 Software de reconocimiento facial para abrir una puerta
 
-## Para clonar el projecto
+## Para clonar el proyecto
 
 - Use Command Prompt to navigate to the folder where you want the project:  
   ```cd <your folder path>```  
